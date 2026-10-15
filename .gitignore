@@ -1,0 +1,16 @@
+# Build output
+bin/
+obj/
+node_modules/
+dist/
+src/QuizLive.Api/wwwroot/
+
+# Local database
+*.db
+*.db-shm
+*.db-wal
+
+# Editor
+.vs/
+.idea/
+*.user

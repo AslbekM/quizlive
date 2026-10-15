@@ -1,0 +1,6 @@
+/* Base reset only. The app's look lives in styles.css. */
+html,
+body,
+#root {
+  height: 100%;
+}
